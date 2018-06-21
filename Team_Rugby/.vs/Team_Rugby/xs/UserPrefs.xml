@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{E1F2DD8F-3B14-EDE9-F15D-C15A1A911363}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ElementDrag/DraggBtn.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ElementDrag/DraggBtn.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Player/DetailsPlayer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
